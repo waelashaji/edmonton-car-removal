@@ -49,7 +49,7 @@
 ----------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap");
 :root {
-  --accent-color: #D40511;
+  --accent-color: #468B40;
   --body-color: #4A4A4A;
   --heading-color: #0A0A0A;
   --primary-color: #101010;
@@ -80,7 +80,7 @@
 
 .cs_accent_color,
 .cs_accent_color_hover:hover {
-  color: #D40511;
+  color: #468B40;
 }
 
 .cs_white_bg {
@@ -202,7 +202,7 @@
 
 .cs_accent_bg,
 .cs_accent_bg_hover:hover {
-  background-color: #D40511;
+  background-color: #468B40;
 }
 
 .cs_primary_bg,
@@ -411,7 +411,7 @@ button {
 
 a:hover {
   text-decoration: none;
-  color: #D40511;
+  color: #468B40;
 }
 
 table {
@@ -555,7 +555,7 @@ textarea {
   background-color: #fff;
 }
 .cs_scrollup:hover {
-  background-color: #D40511;
+  background-color: #468B40;
   color: #fff;
 }
 .cs_scrollup i {
@@ -619,7 +619,7 @@ textarea {
     margin-top: 16.5px;
     display: flex;
     align-items: center;
-    background: #D40511;
+    background: #468B40;
     border-radius: 100px;
     padding: 12px 20px;
   }
@@ -683,7 +683,7 @@ textarea {
     transition: all 0.4s ease;
   }
   .cs_site_header.header-no-bg .cs_nav .cs_nav_list > li.menu-item-has-children:hover > a::after {
-    background: #D40511;
+    background: #468B40;
     transition: all 0.4s ease;
   }
   .cs_site_header.header-no-bg .menu-item-has-children a ::after {
@@ -754,7 +754,7 @@ textarea {
     margin-right: 0px !important;
   }
   .cs_site_header.cs_style1 .cs_main_header_right .cs-header-additional-item:hover a {
-    color: #D40511;
+    color: #468B40;
     transition: all 0.4s ease;
   }
   .cs-header-emai-phone {
@@ -787,7 +787,7 @@ textarea {
   transition: all 0.3s ease;
 }
 .cs_site_header.cs_style1 .cs_main_header_right .cs-header-additional-item a:hover {
-  color: #D40511;
+  color: #468B40;
   transition: all 0.3s ease;
 }
 .cs_site_header.cs_style1 .cs_main_header_right .cs_toolbox {
@@ -979,7 +979,7 @@ textarea {
   transform: rotate(45deg);
 }
 .cs_close:hover {
-  color: #D40511;
+  color: #468B40;
   transform: scale(1.05);
 }
 
@@ -1332,7 +1332,7 @@ textarea {
   height: 17px;
 }
 .cs_side_header_in .cs-sidebar-middle-area .cs-sidebar-social a:hover svg path {
-  fill: #D40511;
+  fill: #468B40;
   transition: all 0.5s ease-in-out;
 }
 .cs_side_header_in .cs-sidebar-middle-area p {
@@ -2493,7 +2493,7 @@ label {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #D40511;
+  background: #468B40;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
@@ -2855,7 +2855,7 @@ label {
   12. Button Style
 ----------------------------------------------------------------*/
 button {
-  background-color: #D40511;
+  background-color: #468B40;
   color: #fff;
   cursor: pointer;
   transition: all 0.3s;
@@ -2875,7 +2875,7 @@ button i {
   gap: 5px;
 }
 .cs-text_b_line i {
-  color: #D40511;
+  color: #468B40;
   line-height: 0px;
 }
 
@@ -2915,7 +2915,7 @@ button i {
 }
 
 .cs-primary-btn {
-  background-color: #D40511;
+  background-color: #468B40;
   cursor: pointer;
   transition: all 0.3s;
   font-size: 16px;
@@ -2993,7 +2993,7 @@ button i {
   color: #0A0A0A;
 }
 .cs-primary-btn.white-primary-btn:hover {
-  background: #D40511;
+  background: #468B40;
   color: #fff;
   transition: all 0.4s ease;
 }
@@ -3011,7 +3011,7 @@ button i {
   color: #0A0A0A;
 }
 .cs-primary-btn.gray-primary-btn:hover {
-  background: #D40511;
+  background: #468B40;
   transition: all 0.4s ease;
 }
 .cs-primary-btn.gray-primary-btn:hover i {
@@ -3056,7 +3056,7 @@ button i {
 }
 .cs-widget-download .cs-download-card-in .cs-download-icon i {
   font-size: 32px;
-  color: #D40511;
+  color: #468B40;
 }
 .cs-widget-download .cs-download-card-in .cs-download-text {
   padding-left: 15px;
@@ -3101,7 +3101,7 @@ button i {
   gap: 10px;
 }
 .cs-widget-item .cs-widget-title i {
-  color: #D40511;
+  color: #468B40;
   font-size: 22px;
   line-height: 0px;
 }
@@ -3134,7 +3134,7 @@ button i {
   transition: border-color 0.3s ease;
 }
 .cs-search-widget .cs-search-content input:focus, .cs-search-widget .cs-search-content input:active, .cs-search-widget .cs-search-content input:focus-visible, .cs-search-widget .cs-search-content input:focus-within {
-  border: 1px solid #D40511;
+  border: 1px solid #468B40;
   outline: none;
 }
 .cs-search-widget .cs-search-content .cs-icon-search {
@@ -3145,7 +3145,7 @@ button i {
 }
 .cs-search-widget .cs-search-content .cs-icon-search i {
   font-size: 28px;
-  color: #D40511;
+  color: #468B40;
 }
 
 .cs-tag-items-wrap ul {
@@ -3165,9 +3165,9 @@ button i {
   font-size: 16px;
 }
 .cs-tag-items-wrap ul li:hover {
-  background: #D40511;
+  background: #468B40;
   transition: all 0.4s ease;
-  border: 1px solid #D40511;
+  border: 1px solid #468B40;
 }
 .cs-tag-items-wrap ul li:hover a {
   color: #fff;
@@ -3593,7 +3593,7 @@ button i {
 }
 .cs-expertise-wrap .cs-expert-area-item .cs-exp-icon-title .cs-exp-icon {
   margin-right: 30px;
-  color: #D40511;
+  color: #468B40;
   font-size: 80px;
 }
 .cs-expertise-wrap .cs-expert-area-item .cs-exp-icon-title .cs-exp-title {
@@ -3860,7 +3860,7 @@ button i {
 }
 .cs-about-list-wrap ul li i {
   margin-right: 10px;
-  color: #D40511;
+  color: #468B40;
 }
 
 @media screen and (max-width: 1600px) {
@@ -4266,7 +4266,7 @@ button i {
   -webkit-clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
           clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
   overflow: hidden;
-  background-color: #D40511;
+  background-color: #468B40;
   transition: all 0.5s;
   z-index: 11;
 }
@@ -4437,7 +4437,7 @@ button i {
 }
 .cs-team-wrapper .cs-members-container .cs-member-item .cs-social-contact ul li a {
   padding: 15px 15px 8px 15px;
-  background: #D40511;
+  background: #468B40;
   display: inline-block;
 }
 .cs-team-wrapper .cs-members-container .cs-member-item .cs-social-contact ul li a i {
@@ -4702,7 +4702,7 @@ button i {
 }
 .cs-testi-wrap .cs-testi-arrow .cs-testi-right:hover,
 .cs-testi-wrap .cs-testi-arrow .cs-testi-left:hover {
-  background: #D40511;
+  background: #468B40;
   transition: all 0.4s ease;
 }
 .cs-testi-wrap .cs-testi-arrow .cs-testi-right:hover i,
@@ -5028,7 +5028,7 @@ button i {
 
 .cs-quote-card-wrap {
   background: #ECECEC;
-  border-left: 2px solid #D40511;
+  border-left: 2px solid #468B40;
 }
 .cs-quote-card-wrap .cs-quote-in {
   position: relative;
@@ -5263,7 +5263,7 @@ button i {
 }
 .cs_accordian.light-border-accordian .cs_accordian_header.active {
   background-color: #fff !important;
-  border-bottom: 1px solid #D40511 !important;
+  border-bottom: 1px solid #468B40 !important;
   color: #0A0A0A !important;
 }
 .cs_accordian.light-border-accordian .cs_accordian_header.active i {
@@ -5422,11 +5422,11 @@ button i {
   transition: all 0.3s ease;
 }
 .cs-text-moving-wrap .cs_text-moving h2:hover {
-  color: #D40511;
+  color: #468B40;
   transition: all 0.3s ease;
 }
 .cs-text-moving-wrap.cs-moving-text-with-bg {
-  background: #D40511;
+  background: #468B40;
   padding: 20px 0px;
 }
 .cs-text-moving-wrap.cs-moving-text-with-bg h2 {
@@ -5542,9 +5542,9 @@ button i {
   color: #0A0A0A;
 }
 .cs-com-feature-wrapper.cs-feature-for-ocean-cargo .cs-img-with-video .cs-video-img .cs_round_btn:hover {
-  background: #D40511;
+  background: #468B40;
   color: #fff;
-  border: 1px solid #D40511;
+  border: 1px solid #468B40;
 }
 .cs-com-feature-wrapper.cs-feature-for-ocean-cargo .cs-img-with-video .cs-oc-cargo-wcu-img {
   margin-left: 10px;
@@ -5826,7 +5826,7 @@ button i {
   display: flex;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-meta .cs-blog-date {
-  background: #D40511;
+  background: #468B40;
   padding: 5px 10px;
   margin-right: 15px;
   color: #fff;
@@ -5835,7 +5835,7 @@ button i {
   margin: 0px;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-meta .cs-blog-author-meta {
-  background: #D40511;
+  background: #468B40;
   padding: 5px 10px;
   color: #fff;
 }
@@ -5849,11 +5849,11 @@ button i {
   transition: all 0.3s ease;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-title a:hover h6 {
-  color: #D40511;
+  color: #468B40;
   transition: all 0.3s ease;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-title:hover h4 {
-  color: #D40511;
+  color: #468B40;
   transition: all 300ms ease-in-out;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-excerpt-text {
@@ -5964,7 +5964,7 @@ button i {
   width: 40px;
   animation: button-pulse 7s ease-in-out infinite;
   cursor: pointer;
-  border: 1px solid #D40511;
+  border: 1px solid #468B40;
   border-radius: 100%;
 }
 .hotspot-button:after {
@@ -5972,13 +5972,13 @@ button i {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #D40511;
-  border: 5px solid #D40511;
+  background: #468B40;
+  border: 5px solid #468B40;
   opacity: 0.7;
   border-radius: 100%;
   content: "";
   display: block;
-  background-color: #D40511;
+  background-color: #468B40;
   transition: border-color 1s linear;
 }
 .hotspot-label {
@@ -6148,10 +6148,10 @@ button i {
 .cs-form-cp-in.cs-form-light form :focus-visible,
 .cs-form-cp-in.cs-form-light form :focus,
 .cs-form-cp-in.cs-form-light form :target {
-  border-bottom: 1px solid #D40511;
+  border-bottom: 1px solid #468B40;
 }
 .cs-form-cp-in.cs-form-light form :focus {
-  border-bottom: 1px solid #D40511;
+  border-bottom: 1px solid #468B40;
 }
 
 .input-row-2col {
@@ -6246,7 +6246,7 @@ figure img {
 }
 
 .cs-logi-order-track {
-  border-top: 1px dashed #D40511;
+  border-top: 1px dashed #468B40;
   padding-top: 2.5rem;
   display: flex;
   flex-direction: column;
@@ -6271,7 +6271,7 @@ figure img {
   width: 22px;
   height: 22px;
   border-radius: 50%;
-  background: #D40511;
+  background: #468B40;
 }
 .cs-logi-order-track-status-line {
   display: block;
