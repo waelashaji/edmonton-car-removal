@@ -2,7 +2,7 @@
   ("use strict");
   /*
 |--------------------------------------------------------------------------
-| Template Name: LogiHub
+| Template Name: Edmenton Car Removal
 | Author: edmontonCarRemoval
 | Version: 1.0.0
 |--------------------------------------------------------------------------
